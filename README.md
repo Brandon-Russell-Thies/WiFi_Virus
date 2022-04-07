@@ -1,0 +1,3 @@
+The program "WiFi_Virus.py" acts as a virus by disconnecting from any routers if not in range of one specific router which is stored in the database "system_info.db".  Please note you must create this database and add the router name which you wish to allow your computer to connect to, before running "WiFi_Virus.py".  Otherwise, you will get an error.  This database can be created using the second python file in the repository called "database_creator.py".  
+
+To run these programs, you do not need to pip install any modules, because the modules that have been used in this project come preinstalled with Python.
